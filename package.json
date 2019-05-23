@@ -31,7 +31,7 @@
   "dependencies": {
     "atom-package-deps": "^4.0.1",
     "decamelize": "^1.2.0",
-    "install": "^0.6.0",
+    "install": "^0.12.2",
     "minimatch": "^3.0.0",
     "no-cliches": "git+https://github.com/dunckr/no-cliches.git#6f8f2169a703af9fc97721cb1038c26bc028f118",
     "npm": "^3.8.1",
